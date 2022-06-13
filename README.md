@@ -14,6 +14,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
+- Bootstrap
 - NodeJS
 - Body-Parser
 - Consign
